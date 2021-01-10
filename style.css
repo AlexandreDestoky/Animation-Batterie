@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(0deg, #ffdee9 0%, #b5fffc 100%) no-repeat center fixed;
+  background-size: cover;
+}
+
+i {
+  font-size: 20em;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3em;
+}
+
+div {
+  margin: auto;
+  max-width: fit-content;
+  margin-top: 20vh;
+}
